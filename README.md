@@ -1,6 +1,6 @@
 # Muhammad Zubair
 
-Software Engineer focused on full-stack web systems, AI agent orchestration, and static-analysis developer tooling. Final-year B.S. Software Engineering student at COMSATS University Islamabad.
+Software Engineer focused on full-stack web systems, AI agent orchestration, and static-analysis developer tooling. Final-year B.S. Software Engineering student.
 
 ---
 
@@ -30,5 +30,5 @@ Software Engineer focused on full-stack web systems, AI agent orchestration, and
 
 * **Portfolio:** [portfolio-site-five-zeta-28.vercel.app](https://portfolio-site-five-zeta-28.vercel.app)
 * **npm:** [npmjs.com/~zeecoding](https://www.npmjs.com/package/i18n-ast-lint)
-* **LinkedIn:** [Add your LinkedIn URL]
-* **Email:** [Add your professional email]
+* **LinkedIn:** www.linkedin.com/in/zubair-dev
+* **Email:** zubairdev07@gmail.com
